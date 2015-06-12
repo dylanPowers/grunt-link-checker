@@ -28,7 +28,7 @@
   "dependencies": {
     "chalk": "^1.0.0",
     "cheerio": "^0.19.0",
-    "simplecrawler": "^0.4.1"
+    "simplecrawler": "dylanPowers/node-simplecrawler#redirect_to_new_domain"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
